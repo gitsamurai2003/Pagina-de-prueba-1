@@ -1,5 +1,5 @@
 body{
-    background: url('../img/rojo.jpg');
+    background: url('rojo.jpg');
     background-attachment: fixed;
 }
 #logo{
