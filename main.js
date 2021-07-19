@@ -76,15 +76,15 @@ $(document).ready(function () {
     var theme= $("#theme");
 
     $("#to-green").click(function(){
-        theme.attr("href", "css/green.css");
+        theme.attr("href", "green.css");
     });
 
     $("#to-blue").click(function(){
-        theme.attr("href", "css/blue.css");
+        theme.attr("href", "blue.css");
     });
 
     $("#to-red").click(function(){
-        theme.attr("href", "css/red.css");
+        theme.attr("href", "red.css");
     });
 
     // Scroll hacia arriba de la web 
